@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(to right, rgb(142, 223, 255), rgb(255, 0, 0));
+    color: rgb(66, 64, 64);
+    text-align: center;
+    letter-spacing: .5rem;
+}
+
+h1 {
+    letter-spacing: 1rem;
+
+    font-size: 3rem;
+}
+
+p {
+    letter-spacing: 0rem;
+}
+
+/*
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+h3 {
+    letter-spacing: .5rem;
+
+}
+
+*/
